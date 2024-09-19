@@ -1,0 +1,213 @@
+Tinche: https://github.com/Tinche/aiofiles
+omnilib: https://github.com/omnilib/aiosqlite
+daviddarnes: https://github.com/daviddarnes/alembic
+vega: https://github.com/vega/altair
+apache: https://github.com/apache/arrow
+django: https://github.com/django/asgiref
+wbond: https://github.com/wbond/asn1crypto
+aio-libs: https://github.com/aio-libs/async-timeout
+python-attrs: https://github.com/python-attrs/attrs
+wention: https://github.com/wention/BeautifulSoup4
+pallets-eco: https://github.com/pallets-eco/blinker
+boto: https://github.com/boto/botocore
+psf: https://github.com/psf/cachecontrol
+tkem: https://github.com/tkem/cachetools
+microservices-demo: https://github.com/microservices-demo/catalogue
+cffi: https://github.com/cffi/cffi
+chardet: https://github.com/chardet/chardet
+pallets: https://github.com/pallets/click
+tartley: https://github.com/tartley/colorama
+xolox: https://github.com/xolox/python-coloredlogs
+CommE2E: https://github.com/CommE2E/comm
+python-poetry: https://github.com/python-poetry/crashtest
+taichino: https://github.com/taichino/croniter
+eriknw: https://github.com/eriknw/cytoolz
+pypa: https://github.com/pypa/distlib
+torch: https://github.com/torch/distro
+pfmoore: https://github.com/pfmoore/editables
+takluyver: https://github.com/takluyver/entrypoints
+compyman: https://github.com/compyman/et_xmlfile
+agronholm: https://github.com/agronholm/exceptiongroup
+jupyterlab: https://github.com/jupyterlab/jupyterlab_server
+jupyter-widgets: https://github.com/jupyter-widgets/jupyterlab-sidecar
+jaraco: https://github.com/jaraco/keyring
+conda-forge: https://github.com/conda-forge/kiwisolver-feedstock
+cloudfoundry: https://github.com/cloudfoundry/locket
+nightlyone: https://github.com/nightlyone/lockfile
+executablebooks: https://github.com/executablebooks/markdown-it-py
+ipython: https://github.com/ipython/matplotlib-inline
+executablebooks: https://github.com/executablebooks/mdurl
+lepture: https://github.com/lepture/mistune
+more-itertools: https://github.com/more-itertools/more-itertools
+mpmath: https://github.com/mpmath/mpmath
+aio-libs: https://github.com/aio-libs/multidict
+python: https://github.com/python/mypy_extensions
+jupyter: https://github.com/jupyter/nbclassic
+jupyter: https://github.com/jupyter/nbclient
+jupyter: https://github.com/jupyter/nbconvert
+jupyter: https://github.com/jupyter/nbformat
+networkx: https://github.com/networkx/networkx
+oauthlib: https://github.com/oauthlib/oauthlib
+ericgazoni: https://github.com/ericgazoni/openpyxl
+pypa: https://github.com/pypa/packaging
+dask: https://github.com/dask/partd
+cpburnz: https://github.com/cpburnz/python-pathspec
+pydata: https://github.com/pydata/patsy
+pypa: https://github.com/pypa/pip
+indexzero: https://github.com/indexzero/node-pkginfo
+tox-dev: https://github.com/tox-dev/platformdirs
+plotly: https://github.com/plotly/plotly.py
+pytest-dev: https://github.com/pytest-dev/pluggy
+Kozea: https://github.com/Kozea/tinycss2
+toml-lang: https://github.com/toml-lang/toml
+hukkin: https://github.com/hukkin/tomli
+python-poetry: https://github.com/python-poetry/tomlkit
+pytoolz: https://github.com/pytoolz/toolz
+tqdm: https://github.com/tqdm/tqdm
+ipython: https://github.com/ipython/traitlets
+pypa: https://github.com/pypa/trove-classifiers
+agronholm: https://github.com/agronholm/typeguard
+fastapi: https://github.com/fastapi/typer
+python: https://github.com/python/typing_extensions
+urllib3: https://github.com/urllib3/urllib3
+intuit: https://github.com/intuit/wasabi
+python-websockets: https://github.com/python-websockets/websockets
+pallets: https://github.com/pallets/werkzeug
+conda-forge: https://github.com/conda-forge/widgetsnbextension-feedstock
+GrahamDumpleton: https://github.com/GrahamDumpleton/wrapt
+pydata: https://github.com/pydata/xarray
+geopandas: https://github.com/geopandas/xyzservices
+dask: https://github.com/dask/zict
+jaraco: https://github.com/jaraco/zipp
+conda-forge: https://github.com/conda-forge/absl-py-feedstock
+aio-libs: https://github.com/aio-libs/aiorwlock
+berkerpeksag: https://github.com/berkerpeksag/astor
+cenkalti: https://github.com/cenkalti/backoff
+psf: https://github.com/psf/black
+chjj: https://github.com/chjj/blessed
+cloudpipe: https://github.com/cloudpipe/cloudpickle
+stan-dev: https://github.com/stan-dev/cmdstanpy
+colour-science: https://github.com/colour-science/colour
+magmax: https://github.com/magmax/python-readchar
+rholder: https://github.com/rholder/retrying
+semver: https://github.com/semver/semver
+arsenetar: https://github.com/arsenetar/send2trash
+PyO3: https://github.com/PyO3/setuptools-rust
+simplejson: https://github.com/simplejson/simplejson
+Dan-in-CA: https://github.com/Dan-in-CA/SIP
+conda-forge: https://github.com/conda-forge/skl2onnx-feedstock
+encode: https://github.com/encode/starlette
+alex-oleshkevich: https://github.com/alex-oleshkevich/starsessions
+jupyter: https://github.com/jupyter/testpath
+Lightning-AI: https://github.com/Lightning-AI/torchmetrics
+conda-forge: https://github.com/conda-forge/types-futures-feedstock
+brandonxiang: https://github.com/brandonxiang/protobuf-to-typescript
+encode: https://github.com/encode/uvicorn
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/Tinche/aiofiles
+https://github.com/omnilib/aiosqlite
+https://github.com/daviddarnes/alembic
+https://github.com/vega/altair
+https://github.com/apache/arrow
+https://github.com/django/asgiref
+https://github.com/wbond/asn1crypto
+https://github.com/aio-libs/async-timeout
+https://github.com/python-attrs/attrs
+https://github.com/wention/BeautifulSoup4
+https://github.com/pallets-eco/blinker
+https://github.com/boto/botocore
+https://github.com/psf/cachecontrol
+https://github.com/tkem/cachetools
+https://github.com/microservices-demo/catalogue
+https://github.com/cffi/cffi
+https://github.com/chardet/chardet
+https://github.com/pallets/click
+https://github.com/tartley/colorama
+https://github.com/xolox/python-coloredlogs
+https://github.com/CommE2E/comm
+https://github.com/python-poetry/crashtest
+https://github.com/taichino/croniter
+https://github.com/eriknw/cytoolz
+https://github.com/pypa/distlib
+https://github.com/torch/distro
+https://github.com/pfmoore/editables
+https://github.com/takluyver/entrypoints
+https://github.com/compyman/et_xmlfile
+https://github.com/agronholm/exceptiongroup
+https://github.com/jaraco/keyring
+https://github.com/conda-forge/kiwisolver-feedstock
+https://github.com/cloudfoundry/locket
+https://github.com/nightlyone/lockfile
+https://github.com/executablebooks/markdown-it-py
+https://github.com/ipython/matplotlib-inline
+https://github.com/executablebooks/mdurl
+https://github.com/lepture/mistune
+https://github.com/more-itertools/more-itertools
+https://github.com/mpmath/mpmath
+https://github.com/aio-libs/multidict
+https://github.com/python/mypy_extensions
+https://github.com/jupyter/nbclassic
+https://github.com/jupyter/nbclient
+https://github.com/jupyter/nbconvert
+https://github.com/jupyter/nbformat
+https://github.com/networkx/networkx
+https://github.com/oauthlib/oauthlib
+https://github.com/ericgazoni/openpyxl
+https://github.com/pypa/packaging
+https://github.com/dask/partd
+https://github.com/cpburnz/python-pathspec
+https://github.com/pydata/patsy
+https://github.com/pypa/pip
+https://github.com/indexzero/node-pkginfo
+https://github.com/tox-dev/platformdirs
+https://github.com/plotly/plotly.py
+https://github.com/pytest-dev/pluggy
+https://github.com/python-poetry/poetry
+https://github.com/fatiando/pooch
+https://github.com/ipython/traitlets
+https://github.com/pypa/trove-classifiers
+https://github.com/agronholm/typeguard
+https://github.com/fastapi/typer
+https://github.com/python/typing_extensions
+https://github.com/urllib3/urllib3
+https://github.com/intuit/wasabi
+https://github.com/python-websockets/websockets
+https://github.com/pallets/werkzeug
+https://github.com/conda-forge/widgetsnbextension-feedstock
+https://github.com/GrahamDumpleton/wrapt
+https://github.com/pydata/xarray
+https://github.com/geopandas/xyzservices
+https://github.com/dask/zict
+https://github.com/jaraco/zipp
+https://github.com/conda-forge/absl-py-feedstock
+https://github.com/aio-libs/aiorwlock
+https://github.com/berkerpeksag/astor
+https://github.com/cenkalti/backoff
+https://github.com/psf/black
+https://github.com/chjj/blessed
+https://github.com/cloudpipe/cloudpickle
+https://github.com/stan-dev/cmdstanpy
+https://github.com/colour-science/colour
+https://github.com/huggingface/datasets
+https://github.com/hroptatyr/dateutils
+https://github.com/seperman/deepdiff
+https://github.com/ream/deprecated
+https://github.com/uqfoundation/dill
+https://github.com/docutils/docutils
+https://github.com/conda-forge/types-futures-feedstock
+https://github.com/brandonxiang/protobuf-to-typescript
+https://github.com/encode/uvicorn
+
+https://github.com/stackrox/stackrox  Total workflows_duration_minutes: 12298.016666666666
+https://github.com/keycloak/keycloak
+https://github.com/kubeflow/kubeflow

@@ -1,0 +1,25 @@
+{
+    "https://github.com/Tinche/aiofiles": [
+        [
+            {
+                "workflow_name": "CI",
+                "workflow_runs": 71,
+                "average_run_duration_minutes": 4,
+                "total_duration_minutes": 284
+            },
+            {
+                "workflow_name": "Build & maybe upload PyPI package",
+                "workflow_runs": 2,
+                "average_run_duration_minutes": 1,
+                "total_duration_minutes": 2
+            },
+            {
+                "workflow_name": "Dependabot Updates",
+                "workflow_runs": 1,
+                "average_run_duration_minutes": 1,
+                "total_duration_minutes": 1
+            }
+        ],
+        287
+    ]
+}
