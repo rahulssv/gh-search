@@ -1,7 +1,7 @@
 import requests
 
 # Set your GitHub API token here for authentication (optional but recommended for higher rate limits)
-GITHUB_API_TOKEN = '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'
+GITHUB_API_TOKEN = 'gha_token'
 headers = {
     'Authorization': f'Bearer {GITHUB_API_TOKEN}'
 }

@@ -76,7 +76,7 @@ def extract_repo_info(url):
     return None, None
 
 def main():
-    token = "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"  # Replace with your personal access token
+    token = "gha_token"  # Replace with your personal access token
     workflow_jobs_file = 'workflow_jobs.json'
     
     # Read repository URLs from file

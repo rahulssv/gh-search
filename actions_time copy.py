@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 
 # GitHub token for authentication
-TOKEN = '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'
+TOKEN = 'gha_token'
 
 # Function to get workflow details
 def get_workflows(repo_url):
