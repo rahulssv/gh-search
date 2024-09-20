@@ -1,0 +1,439 @@
+[
+    {
+        "repo_name": "altair",
+        "repo_url": "https://github.com/vega/altair",
+        "repo_duration": 16335,
+        "actions": [
+            {
+                "Workflow_name": "docbuild",
+                "Workflow_id": 823071,
+                "Workflow_duration_30days": 257.99999999999994,
+                "Workflow_average_run_duration": 9,
+                "Total runs count": 1815,
+                "Total_workflow_duration": 16335,
+                "runs": [
+                    {
+                        "run_name": "feat(DRAFT): `expr` method signatures",
+                        "run_id": 10947978811,
+                        "run_duration": 8.3,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30397952960,
+                                "job_started_at": "2024-09-19T19:56:04Z",
+                                "job_completed_at": "2024-09-19T20:04:22Z",
+                                "job_duration": 8.3
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "refactor: `FunctionExpression` -> `Expression` for annotation only",
+                        "run_id": 10947978684,
+                        "run_duration": 8.75,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30397951821,
+                                "job_started_at": "2024-09-19T19:56:04Z",
+                                "job_completed_at": "2024-09-19T20:04:49Z",
+                                "job_duration": 8.75
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "feat(DRAFT): `expr` method signatures",
+                        "run_id": 10947571354,
+                        "run_duration": 8.333333333333334,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30396589102,
+                                "job_started_at": "2024-09-19T19:23:59Z",
+                                "job_completed_at": "2024-09-19T19:32:19Z",
+                                "job_duration": 8.333333333333334
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "feat(DRAFT): Add `render_expr_method`",
+                        "run_id": 10947571146,
+                        "run_duration": 8.416666666666666,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30396588269,
+                                "job_started_at": "2024-09-19T19:23:59Z",
+                                "job_completed_at": "2024-09-19T19:32:24Z",
+                                "job_duration": 8.416666666666666
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "docs: Promote `when-then-otherwise` in User Guide",
+                        "run_id": 10947513173,
+                        "run_duration": 8.7,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30396406139,
+                                "job_started_at": "2024-09-19T19:19:52Z",
+                                "job_completed_at": "2024-09-19T19:28:34Z",
+                                "job_duration": 8.7
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "feat(DRAFT): `expr` method signatures",
+                        "run_id": 10947089820,
+                        "run_duration": 8.3,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30395036268,
+                                "job_started_at": "2024-09-19T18:49:35Z",
+                                "job_completed_at": "2024-09-19T18:57:53Z",
+                                "job_duration": 8.3
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "feat: Finish `to_signature` params component",
+                        "run_id": 10947089650,
+                        "run_duration": 8.966666666666667,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30395035496,
+                                "job_started_at": "2024-09-19T18:49:33Z",
+                                "job_completed_at": "2024-09-19T18:58:31Z",
+                                "job_duration": 8.966666666666667
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "feat(DRAFT): `expr` method signatures",
+                        "run_id": 10946611425,
+                        "run_duration": 9.083333333333334,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30393517715,
+                                "job_started_at": "2024-09-19T18:16:07Z",
+                                "job_completed_at": "2024-09-19T18:25:12Z",
+                                "job_duration": 9.083333333333334
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "feat(DRAFT): Adds `VegaExprNode.to_signature`",
+                        "run_id": 10946611111,
+                        "run_duration": 8.766666666666667,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30393516501,
+                                "job_started_at": "2024-09-19T18:16:05Z",
+                                "job_completed_at": "2024-09-19T18:24:51Z",
+                                "job_duration": 8.766666666666667
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "feat(DRAFT): `expr` method signatures",
+                        "run_id": 10946472391,
+                        "run_duration": 8.533333333333333,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30393057304,
+                                "job_started_at": "2024-09-19T18:06:28Z",
+                                "job_completed_at": "2024-09-19T18:15:00Z",
+                                "job_duration": 8.533333333333333
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "fix: Don't include `\"*args\"` in `parameter_names`",
+                        "run_id": 10946404347,
+                        "run_duration": 8.583333333333334,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30392837178,
+                                "job_started_at": "2024-09-19T18:02:06Z",
+                                "job_completed_at": "2024-09-19T18:10:41Z",
+                                "job_duration": 8.583333333333334
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "docs: Promote `when-then-otherwise` in User Guide",
+                        "run_id": 10922019431,
+                        "run_duration": 8.483333333333333,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30315399421,
+                                "job_started_at": "2024-09-18T12:22:41Z",
+                                "job_completed_at": "2024-09-18T12:31:10Z",
+                                "job_duration": 8.483333333333333
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "docs: Promote `when-then-otherwise` in User Guide",
+                        "run_id": 10921869447,
+                        "run_duration": 8.383333333333333,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30314939858,
+                                "job_started_at": "2024-09-18T12:13:49Z",
+                                "job_completed_at": "2024-09-18T12:22:12Z",
+                                "job_duration": 8.383333333333333
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "docs: Promote `when-then-otherwise` in User Guide",
+                        "run_id": 10920359950,
+                        "run_duration": 8.366666666666667,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30310035007,
+                                "job_started_at": "2024-09-18T10:30:14Z",
+                                "job_completed_at": "2024-09-18T10:38:36Z",
+                                "job_duration": 8.366666666666667
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "refactor(perf): Lazy rewrite of `schemapi.py`, improve docs",
+                        "run_id": 10906593736,
+                        "run_duration": 8.45,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30268199032,
+                                "job_started_at": "2024-09-17T15:53:56Z",
+                                "job_completed_at": "2024-09-17T16:02:23Z",
+                                "job_duration": 8.45
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "docs: Promote `when-then-otherwise` in User Guide",
+                        "run_id": 10906582136,
+                        "run_duration": 8.583333333333334,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30268160367,
+                                "job_started_at": "2024-09-17T15:53:01Z",
+                                "job_completed_at": "2024-09-17T16:01:36Z",
+                                "job_duration": 8.583333333333334
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "ci: Support Python 3.13",
+                        "run_id": 10906570596,
+                        "run_duration": 8.316666666666666,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30268123152,
+                                "job_started_at": "2024-09-17T15:52:56Z",
+                                "job_completed_at": "2024-09-17T16:01:15Z",
+                                "job_duration": 8.316666666666666
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "Merge branch 'main' into support-py-313",
+                        "run_id": 10906570067,
+                        "run_duration": 8.6,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30268120541,
+                                "job_started_at": "2024-09-17T15:48:55Z",
+                                "job_completed_at": "2024-09-17T15:57:31Z",
+                                "job_duration": 8.6
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "fix(typing): Improve `Then` annotations, autocompletion, docs",
+                        "run_id": 10906561924,
+                        "run_duration": 8.433333333333334,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30268094174,
+                                "job_started_at": "2024-09-17T15:48:26Z",
+                                "job_completed_at": "2024-09-17T15:56:52Z",
+                                "job_duration": 8.433333333333334
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "feat: Adds `ThemeConfig` (`TypedDict`)",
+                        "run_id": 10904939193,
+                        "run_duration": 9.35,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30262586009,
+                                "job_started_at": "2024-09-17T14:16:43Z",
+                                "job_completed_at": "2024-09-17T14:26:04Z",
+                                "job_duration": 9.35
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "ci: Bump `typing_extensions` python to `3.14` (#3593)",
+                        "run_id": 10904611976,
+                        "run_duration": 8.633333333333333,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30261467257,
+                                "job_started_at": "2024-09-17T13:59:11Z",
+                                "job_completed_at": "2024-09-17T14:07:49Z",
+                                "job_duration": 8.633333333333333
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "ci: Bump `typing_extensions` python to `3.14`",
+                        "run_id": 10901659709,
+                        "run_duration": 8.716666666666667,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30251886120,
+                                "job_started_at": "2024-09-17T10:58:20Z",
+                                "job_completed_at": "2024-09-17T11:07:03Z",
+                                "job_duration": 8.716666666666667
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "ci: Bump `typing_extensions` python to `3.14`",
+                        "run_id": 10901551020,
+                        "run_duration": 8.533333333333333,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30251537457,
+                                "job_started_at": "2024-09-17T10:50:09Z",
+                                "job_completed_at": "2024-09-17T10:58:41Z",
+                                "job_duration": 8.533333333333333
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "feat: Adds `ThemeConfig` (`TypedDict`)",
+                        "run_id": 10900754075,
+                        "run_duration": 8.85,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30249069265,
+                                "job_started_at": "2024-09-17T09:58:06Z",
+                                "job_completed_at": "2024-09-17T10:06:57Z",
+                                "job_duration": 8.85
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "feat: Adds `ThemeConfig` (`TypedDict`)",
+                        "run_id": 10891310804,
+                        "run_duration": 8.6,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30221940883,
+                                "job_started_at": "2024-09-16T20:12:58Z",
+                                "job_completed_at": "2024-09-16T20:21:34Z",
+                                "job_duration": 8.6
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "feat: Adds `ThemeConfig` (`TypedDict`)",
+                        "run_id": 10888787144,
+                        "run_duration": 8.5,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30214019743,
+                                "job_started_at": "2024-09-16T17:18:59Z",
+                                "job_completed_at": "2024-09-16T17:27:29Z",
+                                "job_duration": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "feat: Adds `ThemeConfig` (`TypedDict`)",
+                        "run_id": 10888620707,
+                        "run_duration": 8.666666666666666,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30213509198,
+                                "job_started_at": "2024-09-16T17:07:57Z",
+                                "job_completed_at": "2024-09-16T17:16:37Z",
+                                "job_duration": 8.666666666666666
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "feat: Adds `ThemeConfig` (`TypedDict`)",
+                        "run_id": 10887845578,
+                        "run_duration": 8.583333333333334,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30210980849,
+                                "job_started_at": "2024-09-16T16:16:12Z",
+                                "job_completed_at": "2024-09-16T16:24:47Z",
+                                "job_duration": 8.583333333333334
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "feat: Adds `ThemeConfig` (`TypedDict`)",
+                        "run_id": 10887770723,
+                        "run_duration": 8.5,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30210756742,
+                                "job_started_at": "2024-09-16T16:12:00Z",
+                                "job_completed_at": "2024-09-16T16:20:30Z",
+                                "job_duration": 8.5
+                            }
+                        ]
+                    },
+                    {
+                        "run_name": "fix(typing): Improve `Then` annotations, autocompletion, docs",
+                        "run_id": 10886541880,
+                        "run_duration": 8.716666666666667,
+                        "jobs": [
+                            {
+                                "job_name": "build",
+                                "job_id": 30206800247,
+                                "job_started_at": "2024-09-16T15:02:36Z",
+                                "job_completed_at": "2024-09-16T15:11:19Z",
+                                "job_duration": 8.716666666666667
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

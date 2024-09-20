@@ -22,7 +22,7 @@ def get_workflows(repo_url):
         runs_url = f"https://api.github.com/repos/{owner}/{repo}/actions/workflows/{workflow_id}/runs"
         runs_response = requests.get(runs_url, headers=headers)
         runs = runs_response.json().get('workflow_runs', [])
-        runs_count = runs_response.json().get('total_count', [])
+        
         
         duration_minutes = 0
         for run in runs:
@@ -38,6 +38,7 @@ def get_workflows(repo_url):
                 duration_minutes += 0
             # duration_minutes += int(timing)/60000
             # duration_minutes += (end_time - start_time).total_seconds()/60
+        runs_count = runs_response.json().get('total_count', [])
         average_run_duration = round(duration_minutes/len(runs))
         total_average_duration_minutes = runs_count*average_run_duration
         workflow_data.append({
